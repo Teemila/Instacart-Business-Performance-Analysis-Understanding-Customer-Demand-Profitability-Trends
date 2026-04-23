@@ -1,4 +1,4 @@
-# Instacart-Business-Performance-Analysis-Understanding-Customer-Demand-Profitability-Trends
+# Instacart-Business-Performance-Analysis-Understanding-Customer-Demand-Profitability-Trends-Using-PowerBi-and-SQL
 The Instacart Sales and Profit Analysis tracks and improves operations for a grocery delivery platform from 2015 to 2023. It turns large volumes of data into simple, interactive insights, showing trends across departments, products, and time to better understand customer demand and profitability.
 # Instacart Business Performance Analysis Project Write-up
 
@@ -18,9 +18,10 @@ The core objective of this analysis is to evaluate Instacart's historical data t
 2.  **Evaluate Product Performance:** Rank departments and individual products by volume and revenue.
 3.  **Analyze Sales Trends:** Monitor profitability fluctuations over time.
 4.  **Identify Peak Times:** Pinpoint the busiest hours to optimize logistics.
-5.  **Data-Driven Recommendations:** Generate actionable strategies for inventory and marketing.
+5.  **Weekend demands:** To identify what products are mostly sold on weekends.
+6.  **Data-Driven Recommendations:** Generate actionable strategies for inventory and marketing.
 
-## Detailed Power BI Analysis Write-up
+## Detailed Analysis Write-up
 
 ### 1. High-Level Key Performance Indicators (KPIs)
 The platform demonstrates massive scale and consistent engagement :
@@ -47,14 +48,15 @@ The analysis breaks down revenue by department and product :
 * * **Profit Aisles:** The top aisles like candy chocolate and ice cream with the most orders (20K–26K+) generate the highest profit, confirming that volume drives performance.
 * **Classification Issues:** An "Unknown" category was found to account for 26.9K orders and over $406K in profit, representing a significant data gap that hinders accurate analytics .
 
+
 ## Strategic Business Recommendations
 
 Based on the data, the following four strategies are recommended :
 
 1.  **Operational Peak Alignment:** Align warehouse staffing, system maintenance, and "shopper" availability specifically with the **10 AM – 4 PM window** to handle the 80K+ hourly order surges.
-3.  **Margin-Focused Marketing:** Shift promotional budgets toward high-demand aisles and departments while also leveraging top products demand on weekends.
-4.  **Inventory Rationalization:** Conduct a review to remove or replace underperforming products (e.g., Caramel Macchiato Creamer) that do not contribute to growth. Align inventory and marketing by increasing capacity ahead of peak periods and tightening inventory levels during the low sales period to minimize overstock risk.
-6.  **Data Integrity Fix:** Resolve the "Unknown" aisle classification. Correcting this category will allow for better product discovery and more accurate departmental reporting.
+2.  **Margin-Focused Marketing:** Shift promotional budgets toward high-demand aisles and departments while also leveraging top products demand on weekends.
+3.  **Inventory Rationalization:** Conduct a review to remove or replace underperforming products (e.g., Caramel Macchiato Creamer) that do not contribute to growth. Align inventory and marketing by increasing capacity ahead of peak periods and tightening inventory levels during the low sales period to minimize overstock risk.
+4.  **Data Integrity Fix:** Resolve the "Unknown" aisle classification. Correcting this category will allow for better product discovery and more accurate departmental reporting.
 
 ## Conclusion
 This analysis of Instacart’s business performance highlights a platform with a massive, loyal customer base and healthy revenue of $158M . The findings emphasize that while aisles like candy chocolate and departments like personal care  drive volume, the future of Instacart’s profitability lies in its ability to optimize for midday demand surges and refine its product mix toward higher-margin aisles . By implementing the recommended operational alignments and data quality fixes, Instacart can improve its 10% margin and ensure more efficient, data-driven growth.
