@@ -20,7 +20,7 @@ The core objective of this analysis is to evaluate Instacart's historical data t
 4.  **Identify Peak Times:** Pinpoint the busiest hours to optimize logistics.
 5.  **Data-Driven Recommendations:** Generate actionable strategies for inventory and marketing.
 
-## Detailed Analysis Write-up
+## Detailed Power BI Analysis Write-up
 
 ### 1. High-Level Key Performance Indicators (KPIs)
 The platform demonstrates massive scale and consistent engagement :
