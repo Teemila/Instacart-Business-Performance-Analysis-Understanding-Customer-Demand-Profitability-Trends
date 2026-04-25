@@ -48,6 +48,11 @@ The analysis breaks down revenue by department and product :
 * * **Profit Aisles:** The top aisles like candy chocolate and ice cream with the most orders (20K–26K+) generate the highest profit, confirming that volume drives performance.
 * **Classification Issues:** An "Unknown" category was found to account for 26.9K orders and over $406K in profit, representing a significant data gap that hinders accurate analytics .
 
+<img width="1221" height="726" alt="Screenshot 2026-03-20 213639" src="https://github.com/user-attachments/assets/0d2e1a52-fc15-4ccb-8097-c835ca44b81d" />
+
+
+<img width="1212" height="728" alt="Screenshot 2026-03-21 133252" src="https://github.com/user-attachments/assets/9e0ba879-d6e8-48f8-bbf0-cb2e30d9fb90" />
+
 
 ## Strategic Business Recommendations
 
