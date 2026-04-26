@@ -54,12 +54,26 @@ The analysis breaks down revenue by department and product :
 <img width="1212" height="728" alt="Screenshot 2026-03-21 133252" src="https://github.com/user-attachments/assets/9e0ba879-d6e8-48f8-bbf0-cb2e30d9fb90" />
 
 
+## Instacart Strategic SQL Analysis
+By leveraging SQL-driven analytics, we aimed to answer high-priority strategic questions for Instacart . 
+1.  **Identify Top-Selling Weekend Products:** : Isolate items with the highest quantity sold on Saturdays and Sundays to guide weekend specific promotional pushes.
+2.  **Compare Alcohol and Bread Sales:** Compare the total profit of all Alcoholic products against Bread to evaluate "staple vs. luxury" performance.
+3.  **Identify products never sold:** Generate a definitive list of products with zero sales records to guide inventory stocking.
+
+## SQL Analysis Key Findings
+* "Sparkling Blood Orange Soda" and "English Hydro Cucumber" consistently ranked high in quantity sold (114 units each) during peak weekend hours. 
+Insight: Weekend shoppers tend to prioritize lifestyle beverages,  a shift from quick midweek needs to comprehensive household replenishment.
+* Alcohol generated a total profit of $342,047.80. Bread generated a lesser total profit of $229,965.80.
+Insight: Alcohol is a significantly higher profit driver for the business, outperforming Bread by $112,082 (48.7%).
+* All products on Instacart has at least one associated order, meaning each item has been purchased at least once and there are no unsold products.
+
+
 ## Strategic Business Recommendations
 
 Based on the data, the following four strategies are recommended :
 
 1.  **Operational Peak Alignment:** Align warehouse staffing, system maintenance, and "shopper" availability specifically with the **10 AM – 4 PM window** to handle the 80K+ hourly order surges.
-2.  **Margin-Focused Marketing:** Shift promotional budgets toward high-demand aisles and departments while also leveraging top products demand on weekends.
+2.  **Margin-Focused Marketing:** Shift promotional budgets toward top profit items like Alcohol, high-demand aisles and departments while also leveraging top products demand on weekends.
 3.  **Inventory Rationalization:** Conduct a review to remove or replace underperforming products (e.g., Caramel Macchiato Creamer) that do not contribute to growth. Align inventory and marketing by increasing capacity ahead of peak periods and tightening inventory levels during the low sales period to minimize overstock risk.
 4.  **Data Integrity Fix:** Resolve the "Unknown" aisle classification. Correcting this category will allow for better product discovery and more accurate departmental reporting.
 
