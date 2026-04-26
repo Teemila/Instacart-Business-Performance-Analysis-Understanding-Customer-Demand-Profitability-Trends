@@ -45,7 +45,7 @@ The analysis breaks down revenue by department and product :
 * **Worst Performers:** Products like "Caramel Macchiato Creamer" and "Duck Mousse with Port Wine" generate negligible revenue (under $250), indicating they may be taking up valuable digital or physical shelf space .
 
 ### 4. Aisles & Data Quality
-* * **Profit Aisles:** The top aisles like candy chocolate and ice cream with the most orders (20K–26K+) generate the highest profit, confirming that volume drives performance.
+* **Profit Aisles:** The top aisles like candy chocolate and ice cream with the most orders (20K–26K+) generate the highest profit, confirming that volume drives performance.
 * **Classification Issues:** An "Unknown" category was found to account for 26.9K orders and over $406K in profit, representing a significant data gap that hinders accurate analytics .
 
 <img width="1221" height="726" alt="Screenshot 2026-03-20 213639" src="https://github.com/user-attachments/assets/0d2e1a52-fc15-4ccb-8097-c835ca44b81d" />
