@@ -42,7 +42,7 @@ Order volume is heavily concentrated during the day, creating a distinct "Peak W
 The analysis breaks down revenue by department and product :
 * **Top Revenue Departments:** **Personal Care** and **Snacks** are the primary drivers of platform revenue.
 * **Top Performers:** Top-selling products include "Tender White Meat Chicken" and "Chicken with Rice Soup," which drive consistent repeat volume .
-* * **Worst Performers:** Products like "Caramel Macchiato Creamer" and "Duck Mousse with Port Wine" generate negligible revenue (under $250), indicating they may be taking up valuable digital or physical shelf space .
+* **Worst Performers:** Products like "Caramel Macchiato Creamer" and "Duck Mousse with Port Wine" generate negligible revenue (under $250), indicating they may be taking up valuable digital or physical shelf space .
 
 ### 4. Aisles & Data Quality
 * * **Profit Aisles:** The top aisles like candy chocolate and ice cream with the most orders (20K–26K+) generate the highest profit, confirming that volume drives performance.
